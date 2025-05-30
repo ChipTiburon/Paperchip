@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.bg-mia {
+    background-color: #DDEEF8;
+}
+.bg-gato {
+    color: #FFFFFF;
+    background-color: rgba(203,196,242,1.00);
+}
+.bg-im {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 0%;
+    background-image: url(../images/bg_yellow.png);
+}
+.bg-negro {
+    background-color: rgba(139,205,228,0.44);
+    color: rgba(255,255,255,1.00);
+}
+.bg-img {
+    background-image: url(../images/bg_carousel.png);
+    background-repeat: no-repeat;
+    background-position: 0 0%;
+    background-size: cover;
+}
